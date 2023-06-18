@@ -8,12 +8,12 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My mom, big brother, and I share the same birthday!
 
-🔗 Connect with me:
+🔗 Connect with me:<br/>
 mail.grashal@gmail.com
-
+<br/>
 </> Coding Profiles:
-https://leetcode.com/grashal_v/ (Active
-https://www.hackerrank.com/vgrashal (Active)
-https://www.codechef.com/users/grashal16 (Inactive)
+https://leetcode.com/grashal_v/ (Active) <br/>
+https://www.hackerrank.com/vgrashal (Active) <br/>
+https://www.codechef.com/users/grashal16 (Inactive) <br/>
 
 ![](https://github.com/vgrashal16/vgrashal16/blob/main/github-cat.gif)
