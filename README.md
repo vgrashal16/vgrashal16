@@ -1,5 +1,4 @@
 ### Hi there 👋
-![](https://github.com/vgrashal16/vgrashal16/blob/main/github-cat.gif)
 - 🔭 I’m currently working on TradeHive
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on Python, JavaScript, HTML, CSS, MERN, MySQL
