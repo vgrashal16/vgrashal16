@@ -15,3 +15,5 @@ mail.grashal@gmail.com
 https://leetcode.com/grashal_v/ (Active
 https://www.hackerrank.com/vgrashal (Active)
 https://www.codechef.com/users/grashal16 (Inactive)
+
+https://github.com/vgrashal16/vgrashal16/blob/main/github-cat.gif
