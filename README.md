@@ -11,7 +11,8 @@
 🔗 Connect with me:<br/>
 mail.grashal@gmail.com
 <br/>
-</> Coding Profiles:
+<br/>
+</> Coding Profiles:<br/>
 https://leetcode.com/grashal_v/ (Active) <br/>
 https://www.hackerrank.com/vgrashal (Active) <br/>
 https://www.codechef.com/users/grashal16 (Inactive) <br/>
