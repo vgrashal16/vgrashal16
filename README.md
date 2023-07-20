@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on TradeHive
+- 🔭 I’m currently working on TradeHive, BlogIt
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on Python, JavaScript, HTML, CSS, MERN, MySQL
 - 🤔 I’m looking for help with Full Stack Development
